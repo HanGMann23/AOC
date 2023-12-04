@@ -13,7 +13,7 @@ namespace AOC.Solutions
         {
 
         }
-
+        
         public void Init(string inputText)
         {
             InputText = inputText;
